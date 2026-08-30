@@ -46,6 +46,7 @@
 - **[dsh-notify](https://github.com/zhengjy01/dsh-notify)** ⭐1 —— 系统级桌面通知（macOS / Linux）
 - **[dsh-flomo](https://github.com/zhengjy01/dsh-flomo)** ⭐1 —— flomo 浮墨笔记写入插件
 - **[dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)** —— 滴答清单任务派发器：定时拉取「今日任务」写入 Obsidian + flomo / macOS 通知
+- **[dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)** ⭐0 —— Vercel MCP 连接插件：官方 OAuth 2.0 流程对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 在会话中可用
 - **[cityfit-cn](https://github.com/zhengjy01/cityfit-cn)** —— 城择 CityFit：面向中国城市选择的可解释评估与比较工具
 
 ## 🛠 技术栈
