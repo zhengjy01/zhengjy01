@@ -25,7 +25,7 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github.com/zhengjy01/zhengjy01/raw/main/stats.svg" width="700" alt="GitHub Stats" />
+  <img src="https://github.com/zhengjy01/zhengjy01/raw/main/stats.zh.svg" width="700" alt="GitHub Stats" />
 </p>
 
 <sub>图片由 GitHub Actions 每天自动调用 GitHub 官方 API 生成并提交到本仓库，数字实时更新、托管在 GitHub 域名下，不依赖第三方卡片服务。</sub>

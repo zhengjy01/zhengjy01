@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="330" viewBox="0 0 856 330" role="img" aria-label="GitHub profile stats for zhengjy01">
+  <defs>
+    <linearGradient id="hd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fe428e"/>
+      <stop offset="50%" stop-color="#a371f7"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="856" height="330" rx="20" fill="#141321"/>
+  <rect x="0.5" y="0.5" width="855" height="329" rx="20" fill="none" stroke="#2a2545"/>
+  <text x="32" y="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="url(#hd)">GitHub @ zhengjy01</text>
+  <text x="32" y="66" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a7">数据来自 GitHub 官方 API · 由 GitHub Actions 每天自动更新</text>
+  <line x1="32" y1="80" x2="824" y2="80" stroke="#2a2545" stroke-width="1"/>
+  <g>
+    <rect x="30" y="96" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
+    <text x="156" y="142" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#fe428e">196</text>
+    <text x="156" y="166" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">贡献</text>
+    <text x="156" y="181" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">近 365 天</text>
+  </g><g>
+    <rect x="302" y="96" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
+    <text x="428" y="142" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#a371f7">291</text>
+    <text x="428" y="166" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">提交</text>
+    <text x="428" y="181" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">累计</text>
+  </g><g>
+    <rect x="574" y="96" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
+    <text x="700" y="142" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#58a6ff">19</text>
+    <text x="700" y="166" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">已合并 PR</text>
+    <text x="700" y="181" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">共 23 个</text>
+  </g><g>
+    <rect x="30" y="210" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
+    <text x="156" y="256" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#2dd4bf">14</text>
+    <text x="156" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">自有仓库</text>
+    <text x="156" y="295" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">共 21 个公开（含 fork）</text>
+  </g><g>
+    <rect x="302" y="210" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
+    <text x="428" y="256" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#fbc02d">16</text>
+    <text x="428" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">收获 Star</text>
+    <text x="428" y="295" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">分布于自有仓库</text>
+  </g><g>
+    <rect x="574" y="210" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
+    <text x="700" y="256" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#7ee787">JavaScript</text>
+    <text x="700" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">主语言</text>
+    <text x="700" y="295" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">按自有仓库数</text>
+  </g>
+  <text x="32" y="320" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">Generated zhengjy01 · 实时档案见 https://github.com/zhengjy01</text>
+</svg>
