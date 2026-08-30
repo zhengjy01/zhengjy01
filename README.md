@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/DSH%20Plugin%20Dev-%F0%9F%94%A8-green" alt="DSH Plugin Dev" />
 </p>
 
+> 🌐 语言：**[中文](https://github.com/zhengjy01)** · [English](https://github.com/zhengjy01/zhengjy01/blob/main/README.EN.md)
+
 ---
 
 ## 🙋 关于我
