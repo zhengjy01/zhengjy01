@@ -47,6 +47,7 @@
 - **[dsh-flomo](https://github.com/zhengjy01/dsh-flomo)** ⭐1 — Write notes and memos to flomo (浮墨笔记)
 - **[dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)** — TickTick task dispatcher: pull "today's tasks" into Obsidian + flomo / macOS notifications
 - **[dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)** ⭐0 — Vercel MCP connection: official OAuth 2.0 flow against mcp.vercel.com; Vercel platform tools under mcp__vercel__* in agent sessions
+- **[dsh-wps](https://github.com/zhengjy01/dsh-wps)** ⭐0 — WPS / 金山文档 (WPS Cloud Docs) integration: official Kingsoft SkillHub MCP, browser authorization, cloud-drive ops + text/sheet/presentation/PDF content under mcp__wps__* in agent sessions
 - **[cityfit-cn](https://github.com/zhengjy01/cityfit-cn)** — CityFit: an explainable evaluation & comparison tool for choosing a Chinese city
 
 ## 🛠 Tech Stack
