@@ -23,7 +23,7 @@
     <text x="428" y="181" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">all time</text>
   </g><g>
     <rect x="574" y="96" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
-    <text x="700" y="142" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#58a6ff">29</text>
+    <text x="700" y="142" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#58a6ff">31</text>
     <text x="700" y="166" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">PRs MERGED</text>
     <text x="700" y="181" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">of 38 opened</text>
   </g><g>
@@ -33,7 +33,7 @@
     <text x="156" y="295" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">25 public incl. forks</text>
   </g><g>
     <rect x="302" y="210" width="252" height="92" rx="14" fill="#1b1830" stroke="#2a2545" stroke-width="1"/>
-    <text x="428" y="256" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#fbc02d">17</text>
+    <text x="428" y="256" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#fbc02d">18</text>
     <text x="428" y="280" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="13" fill="#8b93a7">STARS EARNED</text>
     <text x="428" y="295" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',Helvetica,Arial,sans-serif" font-size="10" fill="#5a6072">across own repos</text>
   </g><g>
