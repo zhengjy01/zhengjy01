@@ -48,6 +48,13 @@
 - **[dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)** — TickTick task dispatcher: pull "today's tasks" into Obsidian + flomo / macOS notifications
 - **[dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)** ⭐0 — Vercel MCP connection: official OAuth 2.0 flow against mcp.vercel.com; Vercel platform tools under mcp__vercel__* in agent sessions
 - **[dsh-wps](https://github.com/zhengjy01/dsh-wps)** ⭐0 — WPS / 金山文档 (WPS Cloud Docs) integration: official Kingsoft SkillHub MCP, browser authorization, cloud-drive ops + text/sheet/presentation/PDF content under mcp__wps__* in agent sessions
+- **[dsh-feishu-mcp](https://github.com/zhengjy01/dsh-feishu-mcp)** ⭐0 —— Feishu (Lark) OpenAPI MCP connection: bridges the official @larksuiteoapi/lark-mcp, exposing IM / Bitable / Docs / Calendar / Drive APIs as mcp__feishu__* tools with OAuth user-token support
+- **[dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)** ⭐0 —— Alibaba Cloud OpenAPI MCP connection: static-credential mode through the official OpenAPI MCP proxy, covering ECS / OSS / DNS / Function Compute
+- **[dsh-goofish-mcp](https://github.com/zhengjy01/dsh-goofish-mcp)** ⭐0 —— Xianyu (Goofish) read-only monitoring: drives the goofish-cli MCP server and exposes search / item detail / listings / chat history tools, with all write actions filtered out
+- **[dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq)** ⭐0 —— Knowledge Planet (zsxq) integration: cookie / QR login against the unofficial web API, group topics / search / publish / comment / like plus a web settings panel
+- **[dsh-skill-recommender](https://github.com/zhengjy01/dsh-skill-recommender)** ⭐0 —— Session-profile driven open-source skill recommender: scans local DSH / Codex / Claude sessions, builds a weighted profile and recommends skills by a tunable match index
+- **[dsh-npm](https://github.com/zhengjy01/dsh-npm)** ⭐0 —— NPM package management: query package info / versions / search, and publish or deprecate directly, with a web settings panel
+- **[dsh-backup-migrator](https://github.com/zhengjy01/dsh-backup-migrator)** ⭐0 —— Plugin environment backup and migration: one-shot backup of profile plugin lists + configs + local-source plugin tarballs, restore on a new machine
 - **[cityfit-cn](https://github.com/zhengjy01/cityfit-cn)** — CityFit: an explainable evaluation & comparison tool for choosing a Chinese city
 
 ## 🛠 Tech Stack

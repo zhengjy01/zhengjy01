@@ -48,6 +48,13 @@
 - **[dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)** —— 滴答清单任务派发器：定时拉取「今日任务」写入 Obsidian + flomo / macOS 通知
 - **[dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)** ⭐0 —— Vercel MCP 连接插件：官方 OAuth 2.0 流程对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 在会话中可用
 - **[dsh-wps](https://github.com/zhengjy01/dsh-wps)** ⭐0 —— WPS / 金山文档云文档集成插件：官方 SkillHub MCP（mcp-center.wps.cn），自定义浏览器授权，云盘列表/搜索/读取/创建/上传下载 + 文字/表格/演示/PDF 内容读写，工具以 mcp__wps__* 在会话中可用
+- **[dsh-feishu-mcp](https://github.com/zhengjy01/dsh-feishu-mcp)** ⭐0 —— 飞书（Lark）OpenAPI MCP 连接：桥接官方 @larksuiteoapi/lark-mcp，把 IM / 多维表格 / 云文档 / 日历 / 云盘 API 暴露为 mcp__feishu__* 工具，支持用户令牌 OAuth
+- **[dsh-aliyun-mcp](https://github.com/zhengjy01/dsh-aliyun-mcp)** ⭐0 —— 阿里云 OpenAPI MCP 连接：静态凭证 + 官方 MCP Proxy，覆盖 ECS / OSS / 域名 / DNS / 函数计算等
+- **[dsh-goofish-mcp](https://github.com/zhengjy01/dsh-goofish-mcp)** ⭐0 —— 闲鱼只读监控：驱动 goofish-cli MCP，暴露搜索 / 商品详情 / 在售列表 / 会话历史 / 类目识别等只读工具，写操作一律过滤
+- **[dsh-zsxq](https://github.com/zhengjy01/dsh-zsxq)** ⭐0 —— 知识星球集成：Cookie / 扫码登录非官方 Web API，星球主题读取 / 搜索 / 发布 / 评论 / 点赞 + Web 设置面板
+- **[dsh-skill-recommender](https://github.com/zhengjy01/dsh-skill-recommender)** ⭐0 —— 会话画像驱动的开源 skill 推荐器：扫描本地 DSH / Codex / Claude 会话建画像，按可调匹配指数推荐 skill
+- **[dsh-npm](https://github.com/zhengjy01/dsh-npm)** ⭐0 —— NPM 包管理：查包信息 / 版本列表 / 搜索，并可直接发布与弃用，附 Web 设置面板
+- **[dsh-backup-migrator](https://github.com/zhengjy01/dsh-backup-migrator)** ⭐0 —— 插件环境备份与迁移：profile 插件清单 + 插件配置 + 本地源插件包一键备份，换机还原
 - **[cityfit-cn](https://github.com/zhengjy01/cityfit-cn)** —— 城择 CityFit：面向中国城市选择的可解释评估与比较工具
 
 ## 🛠 技术栈
