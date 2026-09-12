@@ -46,6 +46,7 @@
 - **[dsh-notify](https://github.com/zhengjy01/dsh-notify)** ⭐1 —— 系统级桌面通知（macOS / Linux）
 - **[dsh-flomo](https://github.com/zhengjy01/dsh-flomo)** ⭐1 —— flomo 浮墨笔记写入插件
 - **[dsh-task-dispatcher](https://github.com/zhengjy01/dsh-task-dispatcher)** —— 滴答清单任务派发器：定时拉取「今日任务」写入 Obsidian + flomo / macOS 通知
+- **[dsh-restart](https://github.com/zhengjy01/dsh-restart)** ⭐0 —— 一键重启 DSH：Web 端按钮 + 分离重启助手 + 页面自动重连，失败时把报错直接显示出来
 - **[dsh-vercel-mcp](https://github.com/zhengjy01/dsh-vercel-mcp)** ⭐0 —— Vercel MCP 连接插件：官方 OAuth 2.0 流程对接 mcp.vercel.com，Vercel 平台工具以 mcp__vercel__* 在会话中可用
 - **[dsh-wps](https://github.com/zhengjy01/dsh-wps)** ⭐0 —— WPS / 金山文档云文档集成插件：官方 SkillHub MCP（mcp-center.wps.cn），自定义浏览器授权，云盘列表/搜索/读取/创建/上传下载 + 文字/表格/演示/PDF 内容读写，工具以 mcp__wps__* 在会话中可用
 - **[dsh-feishu-mcp](https://github.com/zhengjy01/dsh-feishu-mcp)** ⭐0 —— 飞书（Lark）OpenAPI MCP 连接：桥接官方 @larksuiteoapi/lark-mcp，把 IM / 多维表格 / 云文档 / 日历 / 云盘 API 暴露为 mcp__feishu__* 工具，支持用户令牌 OAuth
